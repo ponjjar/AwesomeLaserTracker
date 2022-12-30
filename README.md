@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/58194653/210022869-f24b41cc-3dc6-4801-9309-314e55f0d2c6.png" alt="Awesome laser tracker" width="75%"/>
 
 </p>
-<h3 align="center"> Um bom rastreador de mouse a laser para apresentações com slides ou jogos de tiro em primeira pessoa </h3>
+<h3 align="center"> Um rastreador de laser para apresentações com slides ou jogos de tiro em primeira pessoa </h3>
 
 <p align="center">
 
